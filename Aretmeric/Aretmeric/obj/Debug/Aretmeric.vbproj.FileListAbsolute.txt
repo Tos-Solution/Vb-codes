@@ -1,0 +1,11 @@
+F:\Vstudio\KJC\Aretmeric\Aretmeric\bin\Debug\Aretmeric.exe.config
+F:\Vstudio\KJC\Aretmeric\Aretmeric\bin\Debug\Aretmeric.exe
+F:\Vstudio\KJC\Aretmeric\Aretmeric\bin\Debug\Aretmeric.pdb
+F:\Vstudio\KJC\Aretmeric\Aretmeric\bin\Debug\Aretmeric.xml
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.Form1.resources
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.Resources.resources
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.vbproj.GenerateResource.cache
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.vbproj.CoreCompileInputs.cache
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.exe
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.xml
+F:\Vstudio\KJC\Aretmeric\Aretmeric\obj\Debug\Aretmeric.pdb
