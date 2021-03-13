@@ -1,0 +1,11 @@
+F:\Vstudio\KJC\abstract class\abstract class\bin\Debug\abstract class.exe.config
+F:\Vstudio\KJC\abstract class\abstract class\bin\Debug\abstract class.exe
+F:\Vstudio\KJC\abstract class\abstract class\bin\Debug\abstract class.pdb
+F:\Vstudio\KJC\abstract class\abstract class\bin\Debug\abstract class.xml
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract_class.Form1.resources
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract_class.Resources.resources
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract class.vbproj.GenerateResource.cache
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract class.vbproj.CoreCompileInputs.cache
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract class.exe
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract class.xml
+F:\Vstudio\KJC\abstract class\abstract class\obj\Debug\abstract class.pdb
